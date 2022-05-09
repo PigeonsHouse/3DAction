@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98979d0a5700db345b26cb765135571c, type: 3}
+  m_Name: ItemDataBase
+  m_EditorClassIdentifier: 
+  itemDataBase:
+  - name: 
+    icon: {fileID: 2800000, guid: 6e130bc6df1623cd3910bf5a4d11e022, type: 3}
+    description: "\u8DB3\u304C\u3061\u3087\u3063\u3068\u901F\u304F\u306A\u308B"
+    type: 2
+    addition: 10
+  - name: "\u30A2\u30B7\u30AC\u30CF\u30E4\u30AF\u30CA\u30FC\u30EB"
+    icon: {fileID: 2800000, guid: 6e130bc6df1623cd3910bf5a4d11e022, type: 3}
+    description: "\u8DB3\u304C\u901F\u304F\u306A\u308B"
+    type: 2
+    addition: 30
+  - name: 
+    icon: {fileID: 2800000, guid: 6e130bc6df1623cd3910bf5a4d11e022, type: 3}
+    description: "\u8DB3\u304C\u3059\u3054\u304F\u901F\u304F\u306A\u308B"
+    type: 2
+    addition: 50
